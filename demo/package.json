@@ -21,6 +21,6 @@
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "simple-accordion": "git+https://github.build.ge.com/smallworld/simple-accordion.git#master"
+    "simple-accordion": "git+https://github.com/joeburton/simple-accordion.git#master"
   }
 }

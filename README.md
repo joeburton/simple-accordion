@@ -4,7 +4,7 @@
 
 Add the below to your package.json file
 
-`"simple-accordion": "git+https://github.build.ge.com/smallworld/simple-accordion.git#master"`
+`"simple-accordion": "git+https://github.com/joeburton/simple-accordion.git#master"`
 
 ### How To Use
 
