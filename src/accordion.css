@@ -1,0 +1,25 @@
+.accordion {
+  background-color: var(--simple-accordion-container, #e8e8e8);
+}
+.accordion .title {
+  border-bottom: 1px solid #cccccc;
+  background-color: var(--simple-accordion-header, #e8e8e8);
+  display: block;
+  padding: 6px;
+  margin: 0 0 6px 0;
+}
+
+.accordion .content {
+  margin: 10px 0 10px 0;
+  background-color: var(--simple-accordion-content, #e8e8e8);
+  padding: 6px;
+  display: block;
+}
+
+.accordion .content.hidden {
+  display: none;
+}
+
+.accordion .content.open {
+  display: block;
+}
